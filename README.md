@@ -49,4 +49,4 @@
     </head>
 </html>
 ```
-![img 1](hasilTugas.PNG)
+![img 1](hasilTugas.png)
